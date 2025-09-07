@@ -1,0 +1,11 @@
+{
+    "version": "0.1.0",
+    "notes": "Feature - Session, Project, Task, Tags, Analytics and Pomodoro",
+    "pub_date": "2025-09-05T00:00:00Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUlM2Tm8zN3JpK3lIMUdNb0RkcG93OEdHMU1Zak9IbnUxVmUzelRORWxBZXJYZjdlU2Nsa0lTdU5MM3R2OWRkOU50dzFOeGxQdUlwZEhJSGRXSzNoWERPWjB3UTFPemdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3MTgyMTE4CWZpbGU6TmVyYW1fMC4xLjBfeDY0X2VuLVVTLm1zaQpRM1YyQW9xenUvOXprSlJUMXdGR0N1cVhoRVBNeEtSL2xJNERSL1dqT0RPelRWSWRBRU4yZW93MjJiT2ZWeGFqN01vRlZOY2JUcE9YZ0dMUDFPbG9Cdz09Cg==",
+            "url": "https://github.com/AthithianV/neram/releases/download/v0.1.0/Neram_0.1.0_x64_en-US.msi"
+        }
+    }
+}
