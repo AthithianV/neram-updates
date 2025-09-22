@@ -4,8 +4,12 @@
     "pub_date": "2025-09-05T00:00:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUlM2Tm8zN3JpKzZ2VzNvZnVFZFlPaFJieGtSRWlSTzJYTlowM3RHRGd3emdZaGJGQmJrOW9iYkp6WWllTVFjR09UbzNsZmh6Z1phSWYrYVAraDJaazd6ZlhWUVlMTVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3MjMwNzMyCWZpbGU6TmVyYW1fMC4wLjFfeDY0X2VuLVVTLm1zaQpZMFFkN3c1S3VZMmtxdVJGNG84WFlqTU1YbTRRc0hlb2R2WXhVdVcxM2g1YWNUTURmWUtlVWdadThoYkswd3ZQUmxQOGhDYk9pRFB1T1liUXNkMUxDUT09Cg==",
-            "url": "https://github.com/AthithianV/neram-updates/releases/download/v0.1.0/Neram_0.0.1_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUlM2Tm8zN3JpKyt4NkhocDJGekkyT0ViVEp3VFBxUCswcmdYbGtuUWoyb2JKNXVZZkJWMEhlRldBZjFFVzZqdnhpV3lpRXIvNEozVHZlaVNEZk9ySEdNaTVyNGdjcUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4NTYxOTA0CWZpbGU6TmVyYW1fMC4xLjBfeDY0X2VuLVVTLm1zaQp2STlnL2UvK3gyUDEveCtCVW83Zm5wUllZYlhBQjJnTnlkUFN1Ym4rbzBhd3ZUQmJ5enduaHZsVjdtK0x1SUdQYkNLU1pERlM1ZFFURWFtVFV0cVdBUT09Cg==",
+            "url": "https://github.com/AthithianV/neram-updates/releases/download/v0.1.0/Neram_0.1.0_x64_en-US.msi"
+        },
+        "darwin-universal": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUlM2Tm8zN3JpKzRRK0JlR01yZ2s2YnpzZnp2alIrUU5uVWVmWVlWQ2RuTE84c1ROSDVyNmFqUkFGckNxYlFJckVmYUZGU3dTY25VVzdjUkh2SzQ4dHNRbnlFWlZDTndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4NTYwMTAwCWZpbGU6TmVyYW0uYXBwLnRhci5negphR2hCUng4SG5GM3E2QWlQYnlrdUhsWHMvVGllRHo5SWhmdFFpVmhhK1dsNlVrRXFwd2Vzbmo3NW5tRkkyV0M2VEY2aG5uME56ZHJLRUxDK1JtVTFBUT09Cg==",
+            "url": "https://github.com/AthithianV/neram-updates/releases/download/v0.1.0/Neram_0.1.0_aarch64.dmg"
         }
     }
 }
