@@ -5,11 +5,11 @@
     "platforms": {
         "windows-x86_64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUlM2Tm8zN3JpKzRmNlc3TVEzbnBCNTlnZHE0QXJjQVgyWlUzOUloSHBnTElTUGloRVg3WThONEl3MFRITkdqS2Zucy9rS1YvYlhhRVgxbFZJMDhtUVhpNzdaVFl6U3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5NjQ1NTQyCWZpbGU6TmVyYW1fMC4xLjBfeDY0X2VuLVVTLm1zaQp4TURxWmRrTTkwYnRpMTZia2YxS0MzZ2JOSzhVWHhIUER6ZWtVUzN2ZXU1dDVyYkJUL1BHSVkxakJ3T0t6THl6bzdiWnNVTnlzVVdpOG43K2ozZkREQT09Cg==",
-            "url": "https://github.com/AthithianV/neram-updates/releases/download/v0.1.0/Neram_0.1.0_x64_en-US.msi"
+            "url": "https://github.com/AthithianV/neram-updates/releases/download/v0.1.1/Neram_0.1.1_x64_en-US.msi"
         },
         "darwin-universal": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUlM2Tm8zN3JpKzRRK0JlR01yZ2s2YnpzZnp2alIrUU5uVWVmWVlWQ2RuTE84c1ROSDVyNmFqUkFGckNxYlFJckVmYUZGU3dTY25VVzdjUkh2SzQ4dHNRbnlFWlZDTndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4NTYwMTAwCWZpbGU6TmVyYW0uYXBwLnRhci5negphR2hCUng4SG5GM3E2QWlQYnlrdUhsWHMvVGllRHo5SWhmdFFpVmhhK1dsNlVrRXFwd2Vzbmo3NW5tRkkyV0M2VEY2aG5uME56ZHJLRUxDK1JtVTFBUT09Cg==",
-            "url": "https://github.com/AthithianV/neram-updates/releases/download/v0.1.0/Neram_0.1.0_aarch64.dmg"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUlM2Tm8zN3JpK3g0STBVS2JLd1FiQzN5T2N1SU52a0xzNjhaUDdWWGd5Q0s5NzJFbTU0ZHp1MkNJUFBJc2dtREdQQ3lmejNQSHhMU2xmUDd1dEh1R3d6YkJyeDJCMWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5NjQ5MTY4CWZpbGU6TmVyYW0uYXBwLnRhci5negpaVk5VL25vdWhabTNpcERhcW91ZklEcGdCMWlXNmZ5VDRYRFhreHowelBxcWlrUklCeG5GMzdkcHNvNkM5Vm1XdVBwNC9VTmhlZWJDTmpiT25SY3VCQT09Cg==",
+            "url": "https://github.com/AthithianV/neram-updates/releases/download/v0.1.1/Neram_0.1.1_aarch64.dmg"
         }
     }
 }
