@@ -1,10 +1,10 @@
 {
-    "version": "0.1.0",
-    "notes": "Feature - Session, Project, Task, Tags, Analytics and Pomodoro",
-    "pub_date": "2025-09-05T00:00:00Z",
+    "version": "0.1.1",
+    "notes": "Better UI for Button and Cards",
+    "pub_date": "2025-10-05T00:00:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUlM2Tm8zN3JpKyt4NkhocDJGekkyT0ViVEp3VFBxUCswcmdYbGtuUWoyb2JKNXVZZkJWMEhlRldBZjFFVzZqdnhpV3lpRXIvNEozVHZlaVNEZk9ySEdNaTVyNGdjcUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4NTYxOTA0CWZpbGU6TmVyYW1fMC4xLjBfeDY0X2VuLVVTLm1zaQp2STlnL2UvK3gyUDEveCtCVW83Zm5wUllZYlhBQjJnTnlkUFN1Ym4rbzBhd3ZUQmJ5enduaHZsVjdtK0x1SUdQYkNLU1pERlM1ZFFURWFtVFV0cVdBUT09Cg==",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUlM2Tm8zN3JpKzRmNlc3TVEzbnBCNTlnZHE0QXJjQVgyWlUzOUloSHBnTElTUGloRVg3WThONEl3MFRITkdqS2Zucy9rS1YvYlhhRVgxbFZJMDhtUVhpNzdaVFl6U3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5NjQ1NTQyCWZpbGU6TmVyYW1fMC4xLjBfeDY0X2VuLVVTLm1zaQp4TURxWmRrTTkwYnRpMTZia2YxS0MzZ2JOSzhVWHhIUER6ZWtVUzN2ZXU1dDVyYkJUL1BHSVkxakJ3T0t6THl6bzdiWnNVTnlzVVdpOG43K2ozZkREQT09Cg==",
             "url": "https://github.com/AthithianV/neram-updates/releases/download/v0.1.0/Neram_0.1.0_x64_en-US.msi"
         },
         "darwin-universal": {
